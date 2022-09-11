@@ -1,4 +1,6 @@
 # PYTHON-VERI_YAPILARI-UYGULAMALAR
-python liste uygulaması
+1- python liste uygulaması
 
-https://medium.com/@01yildizmustafa
+2- python sözlük uygulaması
+
+***https://medium.com/@01yildizmustafa
