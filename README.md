@@ -3,4 +3,4 @@
 
 2- python sözlük uygulaması
 
-***https://medium.com/@01yildizmustafa
+**https://medium.com/@01yildizmustafa
